@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Counter App</h1>
+      <h1>Counter App for test</h1>
       <p>Count: {count}</p>
       <button onClick={increment}>Increment</button>
     </div>

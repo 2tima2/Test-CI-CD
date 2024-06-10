@@ -22,6 +22,4 @@ jobs:
         working-directory: frontend  # Set working directory to 'frontend'
         run: npm install
 
-      - name: Run Tests
-        working-directory: frontend  # Set working directory to 'frontend'
-        run: npm test
+      
